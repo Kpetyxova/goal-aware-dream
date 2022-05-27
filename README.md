@@ -1,6 +1,6 @@
 # Goal-Aware DeepPavlov DREAM
 
-This is a Goal-Aware verson of original DeepPavlov Dream Socialbot, which was developed as part of
+This is a Goal-Aware verson of DeepPavlov Dream Socialbot, which was developed as part of
 bachelor thesis "Goal Tracker and Dialogue Games for Low-Level Human Goals in Open-Domain Conversations". 
 
 The goal-aware bot can deal with 7 goals: "share_personal_problems", 
