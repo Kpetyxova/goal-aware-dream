@@ -58,18 +58,6 @@ git clone https://github.com/Kpetyxova/goal-aware-dream.git
 git checkout feat/goals
 ```
 
-### Chekout to feat/goals branch
-
-```
-git checkout feat/goals
-```
-
-### Chekout to feat/goals branch
-
-```
-git checkout feat/goals
-```
-
 ### Run Goal-Aware Dream distribution
 
 ```
