@@ -1,7 +1,7 @@
 # Goal-Aware DeepPavlov DREAM
 
 This is a Goal-Aware verson of DeepPavlov Dream Socialbot, which was developed as part of
-bachelor thesis "Goal Tracker and Dialogue Games for Low-Level Human Goals in Open-Domain Conversations"[https://drive.google.com/file/d/1ODTDJwNNaujGkRepW69xBN6rzS8MgZoG/view?usp=sharing]. 
+bachelor thesis ["Goal Tracker and Dialogue Games for Low-Level Human Goals in Open-Domain Conversations"](https://drive.google.com/file/d/1ODTDJwNNaujGkRepW69xBN6rzS8MgZoG/view?usp=sharing). 
 
 The goal-aware bot can deal with 7 goals: "share_personal_problems", 
 "get_book_recommendation", "get_series_recommendation", "test_bot",
